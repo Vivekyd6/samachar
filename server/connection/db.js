@@ -1,10 +1,6 @@
 import mongoose from 'mongoose';
 
 
-
-
-
-
 const Connection=async()=>{
 try{
     const URL = `mongodb+srv://Vivek_yd_6:VivekYadav@news-app.ymed5.mongodb.net/News-App?retryWrites=true&w=majority`
